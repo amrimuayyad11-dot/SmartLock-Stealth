@@ -1,0 +1,5 @@
+WMI
+pywin32>=306
+yara-python>=4.5.0
+ember>=0.5.2
+lightgbm>=4.0.0
